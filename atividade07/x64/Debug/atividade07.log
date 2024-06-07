@@ -1,2 +1,75 @@
 ﻿  atividade07.cpp
-  atividade07.vcxproj -> C:\Users\47344496860\Desktop\atividade07\x64\Debug\atividade07.exe
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(26,1): error C2059: erro de sintaxe: '}'
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(26,1): error C2143: erro de sintaxe: ';' ausente antes de '}'
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(70,28): error C3861: 'triangulo': identificador não encontrado
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(70,8): error C2593: 'operator <<' é ambíguo
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(480,39):
+  poderia ser 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(448,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(430,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(412,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(394,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(376,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(358,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(340,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(322,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(303,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(277,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(258,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(224,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(206,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(200,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(194,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(189,39):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(1080,32):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(945,31):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(939,31):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(934,31):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(928,31):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(811,31):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(766,31):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(730,32):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\ostream(686,32):
+  ou       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+  C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(70,8):
+  ao tentar corresponder a lista de argumentos '(std::basic_ostream<char,std::char_traits<char>>, unknown-type)'
+  
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(71,46): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(71,38): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(71,34): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(72,52): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(72,44): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(72,36): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(73,44): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(73,36): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(74,46): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(74,38): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(78,16): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(81,16): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(84,24): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(87,12): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
+C:\Users\47344496860\Desktop\atividade07\atividade07\atividade07.cpp(90,12): warning C4244: 'return': conversão de 'int' para 'float', possível perda de dados
